@@ -1,0 +1,10 @@
+dotenv
+langchain
+langchain-groq
+langchain-openai
+openai 
+groq
+langchain-community
+ipykernel
+huggingface
+transformers
